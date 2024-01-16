@@ -50,7 +50,6 @@ min-width: 1460px;}
 
 #wrap header .innerHeader {
     width: 95%;
-    min-width: 1460px;
     height: 110px;
     display: flex;
     justify-content: space-between;
