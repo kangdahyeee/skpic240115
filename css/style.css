@@ -180,7 +180,7 @@ min-width: 1460px;}
 
 /* =================== main =================== */
 
-main {position: relative;}
+main {position: relative; overflow: hidden;}
 /* 하단화살표 - 클릭시 최상단으로 이동 */
 main .btnTop {
     display: none;
